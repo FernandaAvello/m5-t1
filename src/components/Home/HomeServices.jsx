@@ -1,5 +1,5 @@
 import React from "react";
-import { ListServices } from '../Services/ListServices';
+import ListServices from '../Services/ListServices';
 
 const HomeServices = () => (
   <>

@@ -1,6 +1,6 @@
 import { List } from 'antd';
 import React, { useState } from 'react';
-import { ListServices } from '../components/Services/ListServices';
+import ListServices from '../components/Services/ListServices';
 
 const Services = () => {
   return (
